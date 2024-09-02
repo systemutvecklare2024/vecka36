@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            int width = 4;
+            int width = 5;
             int height = 4;
             for (int i = 1; i <= height; ++i)
             {
