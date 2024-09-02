@@ -10,9 +10,7 @@
             {
                 for (int j = 1; j <= width; ++j)
                 {
-                    var number = i * j;
                     Console.Write($"#".PadRight(2));
-
                 }
                 Console.Write("\r\n");
             }
