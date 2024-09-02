@@ -10,7 +10,7 @@
                 for (int j = 1; j <= 5; ++j)
                 {
                     var number = i * j;
-                    Console.Write($"{number.ToString().PadRight(3)}");
+                    Console.Write($"{number,-3}");
 
                 }
                 Console.Write("\r\n");

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ovn2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7306ae19ee3873321a7c16f3d659ef81f51f887e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b11e049d37efd678d8636dd46a6644f16f4ffab0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ovn2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ovn2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

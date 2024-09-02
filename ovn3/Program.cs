@@ -18,7 +18,7 @@ namespace ovn3
                 for (int j = 1; j <= i; ++j)
                 {
                     var number = j;
-                    Console.Write($"{number.ToString().PadRight(3)}");
+                    Console.Write($"{number,-3}");
 
                 }
                 Console.Write("\r\n");
