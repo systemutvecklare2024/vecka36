@@ -1,0 +1,15 @@
+D:\Dev\studier\vecka36\ovn2\bin\Debug\net8.0\ovn2.exe
+D:\Dev\studier\vecka36\ovn2\bin\Debug\net8.0\ovn2.deps.json
+D:\Dev\studier\vecka36\ovn2\bin\Debug\net8.0\ovn2.runtimeconfig.json
+D:\Dev\studier\vecka36\ovn2\bin\Debug\net8.0\ovn2.dll
+D:\Dev\studier\vecka36\ovn2\bin\Debug\net8.0\ovn2.pdb
+D:\Dev\studier\vecka36\ovn2\obj\Debug\net8.0\ovn2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\studier\vecka36\ovn2\obj\Debug\net8.0\ovn2.AssemblyInfoInputs.cache
+D:\Dev\studier\vecka36\ovn2\obj\Debug\net8.0\ovn2.AssemblyInfo.cs
+D:\Dev\studier\vecka36\ovn2\obj\Debug\net8.0\ovn2.csproj.CoreCompileInputs.cache
+D:\Dev\studier\vecka36\ovn2\obj\Debug\net8.0\ovn2.sourcelink.json
+D:\Dev\studier\vecka36\ovn2\obj\Debug\net8.0\ovn2.dll
+D:\Dev\studier\vecka36\ovn2\obj\Debug\net8.0\refint\ovn2.dll
+D:\Dev\studier\vecka36\ovn2\obj\Debug\net8.0\ovn2.pdb
+D:\Dev\studier\vecka36\ovn2\obj\Debug\net8.0\ovn2.genruntimeconfig.cache
+D:\Dev\studier\vecka36\ovn2\obj\Debug\net8.0\ref\ovn2.dll
